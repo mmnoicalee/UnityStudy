@@ -1,0 +1,82 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+
+Server 동쿠리동동/0129/Temp/
+Server 동쿠리동동/0129/Library/
+Server 동쿠리동동/0129/obj/
+
+Server 동쿠리동동/0130/Temp/
+Server 동쿠리동동/0130/Library/
+Server 동쿠리동동/0130/obj/
+
+Server 동쿠리동동/0131/Temp/
+Server 동쿠리동동/0131/Library/
+Server 동쿠리동동/0131/obj/
+
+Server 동쿠리동동/0201/Temp/
+Server 동쿠리동동/0201/Library/
+Server 동쿠리동동/0201/obj/
+
+Server 동쿠리동동/0205/Temp/
+Server 동쿠리동동/0205/Library/
+Server 동쿠리동동/0205/obj/
+
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+
+Server 동쿠리동동\0129/*.csproj
+*.pidb
+*.suo
+Server 동쿠리동동\0129/*.sln
+*.user
+*.unityproj
+*.booproj
+
+Server 동쿠리동동\0130/*.csproj
+*.pidb
+*.suo
+Server 동쿠리동동\0130/*.sln
+*.user
+*.unityproj
+*.booproj
+
+Server 동쿠리동동\0131/*.csproj
+*.pidb
+*.suo
+Server 동쿠리동동\0131/*.sln
+*.user
+*.unityproj
+*.booproj
+
+Server 동쿠리동동\0201/*.csproj
+*.pidb
+*.suo
+Server 동쿠리동동\0201/*.sln
+*.user
+*.unityproj
+*.booproj
+
+Server 동쿠리동동\0205/*.csproj
+*.pidb
+*.suo
+Server 동쿠리동동\0205/*.sln
+*.user
+*.unityproj
+*.booproj
+
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

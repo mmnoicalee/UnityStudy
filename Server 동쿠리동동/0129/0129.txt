@@ -1,0 +1,35 @@
+1. 클라이언트 <> 서버 <> DB서버
+
+- 서버 : Apache HTTP Server/ php / mySQL(etc..오라클,파일저장) : APM 소프트웨어(www.autoset.net)
+
+2. 업무용 : 구글독스 
+
+
+3. 프로토콜 = (통신규약) http/ https / fps ...
+ 
+4. 책: 그림으로배우는 http & network basic
+
+
+5. Apache 란 ? (웹서버)
+
+- http(비연결형 프로토콜) 기반의 파일 다운로드 서비스를 제공
+- 다운로드 요청 방법 : URL(주소) 기반으로 요청
+
+=> URL문법 : 프로토콜://주소(IP.Domain):포트번호/경로/.../파일명
+=> 루트경로 : 프로토콜://주소(IP.Domain):포트번호/
+(아파치에 설정된 다운로드의 시작 경로)
+
+6. 설정 > 웹서버기본설정 > 홈디렉토리 주소 > 
+URL 외부에서 가져갈 수 있음(http://127.0.0.1:80/index.php)
+
+
+7. 생활코딩 : php
+
+8. 다음 개발자 API > 서비스 항목
+   https://developers.daum.net
+   
+   오픈API소스 json으로 사용 
+
+      
+
+ 

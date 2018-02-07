@@ -1,0 +1,5 @@
+SQL : 127.0.0.1/phpmyadimin 
+
+- 아이디 : root
+
+- 비번 : autoset
